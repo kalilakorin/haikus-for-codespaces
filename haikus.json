@@ -1,22 +1,22 @@
 [
     {
-        "text": "rain in seattle,\ndon't forget an umbrella,\nor it will be gloom",
+        "text": "Rain in seattle.\nDon't forget an umbrella,\nor you will be glum.",
         "image": "puddle_jumper_octodex.jpg"
     },
     {
-        "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
+        "text": "My tunes are the jam.\nI like to remix them all.\nHave you heard this one?",
         "image": "vinyltocat.jpeg"
     },
     {
-        "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
+        "text": "Snow is still falling.\nWe went fast down the mountain.\nLet's do one more run!",
         "image": "snowtocat_final.jpg"
     },
     {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "text": "Beep boop bop beep boop,\nI am robot octocat.\nLet us catch a bug!",
         "image": "Robotocat.jpeg"
     },
     {
-        "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
+        "text": "Same plot as before,\nso why is it still awesome?\nIt must be the hat.",
         "image": "linktocat.jpg"
     }
 ]
